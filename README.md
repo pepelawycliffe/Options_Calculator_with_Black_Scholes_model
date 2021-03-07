@@ -21,3 +21,18 @@ In order to know more information about a stock option, this options calculator 
   -	The vega of an option is defined as the rate of change of the option price respected to the volatility of the underlying asset. 
   -	The rho of an option is defined as the rate of the option price respected to the interest rate. 
   -	The theta of an option is defined as the rate of change of the option price respected to the passage of time.
+
+
+<h4>Python Resources:</h4>
+
+* Pandas: Pandas is a Python package for data analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+
+* Numpy: Numpy is a fundamental package to support for multi-dimensional arrays and matrices. It is not only used for scientific computing, but also for multi-dimensional container of generic data.
+
+* Math: Math provides access to the mathematical functions, such as pi, log, exp, sqrt, and other mathematical functions.  
+
+* Statistics: Statistics provides access to the statistics functions, such as norm_pdf, norm_cdf, mean, stdev, and other statistics functions.
+
+* matplotlib.pyplot
+
+* datetime
